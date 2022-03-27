@@ -54,13 +54,6 @@ const data = [
     price: 55,
     currency: 'Euro',
     image: 'images/08.jpg',
-  },
-  {
-    id: 9,
-    name: 'Banana',
-    price: 45,
-    currency: 'Euro',
-    image: 'images/09.jpg',
   }
 ];
 
