@@ -4,8 +4,9 @@
   "homepage": ".",
   "private": true,
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^2.2.0",
-    "react-scripts": "^3.4.4"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "bootstrap": "^3.4.1",
